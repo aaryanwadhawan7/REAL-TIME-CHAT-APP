@@ -1,8 +1,0 @@
-{
-  "extends": "../tsconfig.json",
-  "compilerOptions": {
-    "rootDir": "./frontend_chat_app/src",
-    "outDir": "./frontend_chat_app/dist"
-  },
-  "include": ["frontend_chat_app/src"]
-}
