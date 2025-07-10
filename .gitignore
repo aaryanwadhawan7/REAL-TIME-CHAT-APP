@@ -24,3 +24,7 @@ coverage/
 
 # OS
 .DS_Store
+
+frontend_chat_app/node_modules/
+frontend_chat_app/dist/
+frontend_chat_app/.vite/
